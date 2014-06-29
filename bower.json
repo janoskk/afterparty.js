@@ -1,0 +1,28 @@
+{
+  "name": "afterparty.js",
+  "version": "0.0.1",
+  "authors": [
+    "Janos Kasza <bipketto@gmail.com>"
+  ],
+  "description": "Load images of a webpage after the page is already loaded with the after-src attribute",
+  "main": "afterparty.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "image",
+    "loader"
+  ],
+  "license": "MIT",
+  "homepage": "https://codinum.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
