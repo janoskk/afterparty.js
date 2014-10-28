@@ -1,6 +1,12 @@
 /* jshint browser:true */
 /* global $:false, jQuery:false */
 
+/*
+ * Use the "after-src" attribute instead of "src" for the image tags. Thus, the images
+ * will be downloaded only after the page is loaded. If's recommended to enter the
+ * dimension as well.
+ */
+
 $(function () {
     $.each(document.images, function () {
         var image = this;

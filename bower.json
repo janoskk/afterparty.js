@@ -1,10 +1,10 @@
 {
   "name": "afterparty.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "authors": [
     "Janos Kasza <bipketto@gmail.com>"
   ],
-  "description": "Load images of a webpage after the page is already loaded with the after-src attribute",
+  "description": "Load images of your webpage only after the page is already loaded.",
   "main": "afterparty.js",
   "moduleType": [
     "globals"
