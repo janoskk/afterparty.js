@@ -28,7 +28,7 @@ $ bower install afterparty.js
             <img after-src="yoms.png" alt="" width="162" height="162" style="padding-top: 100px;">
         </a>
     </center>
-    <script src="bower_components/jquery/dist/jquery.min.js" type="text/javascript"></script>
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js" type="text/javascript"></script>
     <script src="afterparty.js" type="text/javascript"></script>
 </body>
 </html>
