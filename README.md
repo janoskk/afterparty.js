@@ -2,7 +2,7 @@
 
 Load images of your webpage only after the page is loaded. It's easy to use:
 * source afterparty.js and
-* use the "after-src" attribute instead of the "src".
+* use the "after-src" \<img\> attribute instead of the "src".
 
 
 # install
